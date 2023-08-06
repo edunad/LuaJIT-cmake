@@ -12,7 +12,3 @@
 *~
 tags
 *.swo
-.idea/
-build/
-cmake-*-build/
-.DS_Store
